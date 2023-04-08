@@ -1,4 +1,4 @@
-<img align="left" alt="Visitor count badge" src="https://visitor-badge.glitch.me/badge?page_id=espenja.githubtest&left_text=Views" />
+<img align="left" alt="Visitor count badge" src="https://visitor-badge.glitch.me/badge?page_id=espenja.github&left_text=Views" />
 <h1 align="center">
 <a href="https://git.io/typing-svg">
     <img title="Welcome" alt="Hello, friend. Welcome to my little corner!" src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&duration=2000&pause=300&center=true&vCenter=true&multiline=true&repeat=false&width=450&height=60&lines=Hello%2C+friend%F0%9F%91%8B;Welcome+to+my+little+corner!" />
@@ -14,7 +14,7 @@
     them.</p>
 
 <h2 align="center">🔥 Languages, Frameworks and Tools 🔥</h2>
-<div>
+<div align="center">
     <code><img title="TypeScript" alt="TypeScript icon" height="25" src="icons/typescript.svg"></code>
     <code><img title="JavaScript" alt="JavaScript icon" height="25" src="icons/javascript.svg"></code>
     <code><img title="C#" alt="C# icon" height="25" src="icons/c-sharp.svg"></code>
