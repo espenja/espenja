@@ -15,28 +15,28 @@
 
 <h2 align="center">🔥 Languages, Frameworks and Tools 🔥</h2>
 <div align="center">
-    <code><img title="TypeScript" alt="TypeScript icon" height="25" src="icons/typescript.svg"></code>
-    <code><img title="JavaScript" alt="JavaScript icon" height="25" src="icons/javascript.svg"></code>
-    <code><img title="C#" alt="C# icon" height="25" src="icons/c-sharp.svg"></code>
-    <code><img title="Java" alt="Java icon" height="25" src="icons/java.svg"></code>
-    <code><img title="dotnet" alt="dotnet icon" height="25" src="icons/dotnet.svg"></code>
-    <code><img title="Microsoft Azure" alt="Microsoft Azure Icon" height="25" src="icons/azure.svg"></code>
-    <code><img title="Cosmos DB" alt="Cosmos DB icon" height="25" src="icons/cosmos-db.svg"></code>
-    <code><img title="React" alt="React icon" height="25" src="icons/react.svg"></code>
-    <code><img title="Git" alt="Git icon" height="25" src="icons/git.svg"></code>
-    <code><img title="Github" alt="Github icon" height="25" src="icons/github.svg"></code>
-    <code><img title="Azure DevOps" alt="Azure DevOps icon" height="25" src="icons/devops.svg"></code>
-    <code><img title="pnpm" alt="pnpm icon" height="25" src="icons/pnpm.svg"></code>
-    <code><img title="npm" alt="npm icon" height="25" src="icons/npm.svg"></code>
-    <code><img title="yarn" alt="yarn icon" height="25" src="icons/yarn.svg"></code>
-    <code><img title="swc" alt="swc icon" height="25" src="icons/swc.svg"></code>
-    <code><img title="EsLint" alt="EsLint icon" height="25" src="icons/eslint.svg"></code>
-    <code><img title="Prettier" alt="Prettier icon" height="25" src="icons/prettier.svg"></code>
-    <code><img title="Visual Studio Code" alt="Visual Studio Code icon" height="25" src="icons/visual-studio-code.svg"></code>
-    <code><img title="Visual Studio" alt="Visual Studio icon" height="25" src="icons/visual-studio.svg"></code>
-    <code><img title="Windows" alt="Windows icon" height="25" src="icons/windows-10.svg"></code>
-    <code><img title="Ubuntu" alt="Ubuntu icon" height="25" src="icons/ubuntu.svg"></code>
-    <code><img title="Microsoft" alt="Microsoft icon" height="25" src="icons/microsoft-icon.svg"></code>
+    <img title="TypeScript" alt="TypeScript icon" height="25" src="icons/typescript.svg">
+    <img title="JavaScript" alt="JavaScript icon" height="25" src="icons/javascript.svg">
+    <img title="C#" alt="C# icon" height="25" src="icons/c-sharp.svg">
+    <img title="Java" alt="Java icon" height="25" src="icons/java.svg">
+    <img title="dotnet" alt="dotnet icon" height="25" src="icons/dotnet.svg">
+    <img title="Microsoft Azure" alt="Microsoft Azure Icon" height="25" src="icons/azure.svg">
+    <img title="Cosmos DB" alt="Cosmos DB icon" height="25" src="icons/cosmos-db.svg">
+    <img title="React" alt="React icon" height="25" src="icons/react.svg">
+    <img title="Git" alt="Git icon" height="25" src="icons/git.svg">
+    <img title="Github" alt="Github icon" height="25" src="icons/github.svg">
+    <img title="Azure DevOps" alt="Azure DevOps icon" height="25" src="icons/devops.svg">
+    <img title="pnpm" alt="pnpm icon" height="25" src="icons/pnpm.svg">
+    <img title="npm" alt="npm icon" height="25" src="icons/npm.svg">
+    <img title="yarn" alt="yarn icon" height="25" src="icons/yarn.svg">
+    <img title="swc" alt="swc icon" height="25" src="icons/swc.svg">
+    <img title="EsLint" alt="EsLint icon" height="25" src="icons/eslint.svg">
+    <img title="Prettier" alt="Prettier icon" height="25" src="icons/prettier.svg">
+    <img title="Visual Studio Code" alt="Visual Studio Code icon" height="25" src="icons/visual-studio-code.svg">
+    <img title="Visual Studio" alt="Visual Studio icon" height="25" src="icons/visual-studio.svg">
+    <img title="Windows" alt="Windows icon" height="25" src="icons/windows-10.svg">
+    <img title="Ubuntu" alt="Ubuntu icon" height="25" src="icons/ubuntu.svg">
+    <img title="Microsoft" alt="Microsoft icon" height="25" src="icons/microsoft-icon.svg">
 </div>
 <br />
 <h2 align="center">⭐ Statistics ⭐</h2>
