@@ -1,8 +1,9 @@
 [![views](https://komarev.com/ghpvc/?username=espenja&color=blue&label=views&style=flat-square)](https://github.com/espenja)
 <h1 align="center">
-<a href="https://git.io/typing-svg">
+<!--<a href="https://git.io/typing-svg">
     <img title="Welcome" alt="Hello, friend. Welcome to my little corner!" src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&duration=2000&pause=300&center=true&vCenter=true&multiline=true&repeat=false&width=450&height=60&lines=Hello%2C+friend%F0%9F%91%8B;Welcome+to+my+little+corner!" />
-</a>
+</a>-->
+    Hey👋
 </h1>
 
 <p align="center">I'm Espen - Programmer, Lead Consultant, Tech Lead, cat owner 🐈. Based in Oslo, Norway.</p>
@@ -38,6 +39,7 @@
     <img title="Ubuntu" alt="Ubuntu icon" height="25" src="icons/ubuntu.svg">
     <img title="Microsoft" alt="Microsoft icon" height="25" src="icons/microsoft-icon.svg">
 </div>
+<!--
 <br />
 <h2 align="center">⭐ Statistics ⭐</h2>
 <div align="center">
@@ -56,3 +58,4 @@
         <img title="Github Profile Summary Card" alt="A dynamically generated image showing some profile statistics of the user espenja" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=espenja" />
     </a>
 </div>
+-->
